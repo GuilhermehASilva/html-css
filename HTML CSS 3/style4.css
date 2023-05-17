@@ -1,0 +1,8 @@
+body{
+    height: 98vh;
+    border: 1px dashed black;
+    background-image: url(https://heartmerch.com.br/wp-content/uploads/2021/04/camiseta-cao-veio-preto-colorida-arte.jpg);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
