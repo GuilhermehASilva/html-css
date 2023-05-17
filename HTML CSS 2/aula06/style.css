@@ -1,0 +1,13 @@
+@font-face {
+    font-family:  'Batuphat';
+    src: url("fonts/Batuphat\ Script.otf") format(opentype);
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family: 'Batuphat', 'Times New Roman', Times, serif;
+    font-size: 3em;
+}
